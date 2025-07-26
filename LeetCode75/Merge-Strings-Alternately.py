@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/merge-strings-alternately/
+
 """
 ・文字列をリストに変換するにはlist()を使用する
 ・リストを文字列に変換するには''.join()を使用する
