@@ -5,11 +5,11 @@
 
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        maxBefore = max(candies);
-        result = list();
+        maxBefore = max(candies)
+        result = list()
         for i, n in enumerate(candies):
             if n + extraCandies >= maxBefore:
-                result.append(True);
+                result.append(True)
             else:
-                result.append(False);
-        return result;
+                result.append(False)
+        return result
