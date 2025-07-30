@@ -10,7 +10,7 @@
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        word_list = list(word1);
+        word_list = list(word1)
         for i, w2 in enumerate(word2):
             insert_index = i*2+1
             word_list.insert(insert_index, w2)
