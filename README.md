@@ -6,6 +6,8 @@
     * 基本的なアルゴリズムとデータ構造を学習するための厳選された75問
 * [Top Interview 150 (Top Interview 150 Questions)](https://leetcode.com/studyplan/top-interview-150/)
     * 面接でよく出題される150問の重要な問題集
+* [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+    * SQLの基礎から応用までを体系的に学べる50問
 
 ## 📝 面接対策プロンプト
 
