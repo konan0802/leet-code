@@ -8,6 +8,7 @@
 
 知見
 ・初期値（current_sum）の置き方を工夫する
+・エッジケースを書き出す
 """
 
 class Solution:
