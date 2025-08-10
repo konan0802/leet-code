@@ -1,5 +1,9 @@
 # https://leetcode.com/problems/majority-element/
 
+"""
+・max(summary, key=summary.get)は、summaryの中でvalueが最大のkeyを返す
+"""
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         summary = {}
