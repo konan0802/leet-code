@@ -9,6 +9,11 @@
 * [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
     * SQLの基礎から応用までを体系的に学べる50問
 
+## 🐍 Python チートシート
+* [Python チートシート](python-cheatsheet.md)
+    * LeetCodeでよく使うPython文法・メソッド・アルゴリズムパターンをまとめたクイックリファレンス
+    * コーディング試験前の見返し用として活用
+
 ## 📝 面接対策プロンプト
 
 ### 🔍 正解コード比較プロンプト
